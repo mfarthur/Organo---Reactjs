@@ -4,5 +4,5 @@
 }
 
 .banner img {
-    width: 101%;
+    max-width: 100%;
 }
